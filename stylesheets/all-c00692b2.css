@@ -1,0 +1,1 @@
+body:before{white-space:pre;font-family:monospace;content:"Error: File to import not found or unreadable: ../../node_modules/concise.css/concise.\A         on line 1 of /root/toovs.gitlab.io/source/stylesheets/all.css.sass\A \A 1: @import \"../../node_modules/concise.css/concise\"\A 2: \A 3: @keyframes fadein\A 4:   from\A 5:     opacity: 0\A 6: "}
